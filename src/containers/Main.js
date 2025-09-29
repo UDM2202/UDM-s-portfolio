@@ -52,7 +52,7 @@ const Main = () => {
             <Greeting />
             <Skills />
           <StartupProject />
-            <StackProgress /
+            <StackProgress />
             <Education />
             <WorkExperience />
             <Projects />
@@ -61,7 +61,6 @@ const Main = () => {
             <Talks />
             <Podcast />
             <Profile />
-            
             <ScrollToTopButton />
           </>
         )}
