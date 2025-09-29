@@ -212,40 +212,64 @@ To know how to get github key look at readme.md */
 
 const openSource = {
   showGithubProfile: "true", // Set true or false to show Contact profile using Github, defaults to true
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Some big projects you have worked on
 
 const bigProjects = {
-  title: "Big Projects",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
+  title: "Recent Projects",
+  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR WEBPAGE",
   projects: [
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "Saayahealth",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/Shoe-store2.png"),
+      projectName: "Imohs Collection",
+      projectDesc: "A shoe collection store",
       footerLink: [
-        {
-          name: "Visit Website",
-          url: "http://saayahealth.com/"
-        }
+        // {
+        //   name: "Visit Website",
+        //   url: "http://saayahealth.com/"
+        // }
         //  you can add extra buttons here.
       ]
     },
     {
-      image: require("./assets/images/nextuLogo.webp"),
-      projectName: "Nextu",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/food.png"),
+      projectName: "Rubbies Chops",
+      projectDesc: "An Intercontinental Food Restaurant",
       footerLink: [
-        {
-          name: "Visit Website",
-          url: "http://nextu.se/"
-        }
+        // {
+        //   name: "Visit Website",
+        //   url: "http://nextu.se/"
+        // }
+      ]
+    }
+    ,
+    {
+      image: require("./assets/images/shoe-store.png"),
+      projectName: "SomheShoes",
+      projectDesc: "An online shopping store for Footwears",
+      footerLink: [
+        // {
+        //   name: "Visit Website",
+        //   url: "http://nextu.se/"
+        // }
+      ]
+    }
+    ,
+    {
+      image: require("./assets/images/template.png"),
+      projectName: "Ethereal Portfolio",
+      projectDesc: "A portfolio website for a UI/UX designer",
+      footerLink: [
+        // {
+        //   name: "Visit Website",
+        //   url: "http://nextu.se/"
+        // }
       ]
     }
   ],
-  display: false // Set false to hide this section, defaults to true
+  display: true // Set false to hide this section, defaults to true
 };
 
 // Achievement Section

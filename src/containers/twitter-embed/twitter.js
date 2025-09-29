@@ -33,8 +33,8 @@ export default function Twitter() {
         <div className="tw-main-div" id="twitter">
           <div className="centerContent">
             <TwitterTimelineEmbed
-              sourceType="profile"
               screenName={twitterDetails.userName}
+              sourceType="profile"
               options={{height: 400, width: {widthScreen}}}
               placeholder={renderLoader()}
               autoHeight={false}
