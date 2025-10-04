@@ -226,10 +226,10 @@ const bigProjects = {
       projectName: "Imohs Collection",
       projectDesc: "A shoe collection store",
       footerLink: [
-        // {
-        //   name: "Visit Website",
-        //   url: "http://saayahealth.com/"
-        // }
+        {
+          name: "Visit Website",
+          url: "https://imohscollectionz.com/"
+        }
         //  you can add extra buttons here.
       ]
     },
@@ -238,34 +238,34 @@ const bigProjects = {
       projectName: "Rubbies Chops",
       projectDesc: "An Intercontinental Food Restaurant",
       footerLink: [
-        // {
-        //   name: "Visit Website",
-        //   url: "http://nextu.se/"
-        // }
+        {
+          name: "Visit Website",
+          url: "https://food-api-green.vercel.app/"
+        }
       ]
     }
     ,
     {
-      image: require("./assets/images/shoe-store.png"),
-      projectName: "SomheShoes",
-      projectDesc: "An online shopping store for Footwears",
+      image: require("./assets/images/Sample1.png"),
+      projectName: "HULK-IT",
+      projectDesc: "The frontend of a web3 NFT project",
       footerLink: [
-        // {
-        //   name: "Visit Website",
-        //   url: "http://nextu.se/"
-        // }
+        {
+          name: "Visit Website",
+          url: "https://github.com/HulkOfKnowledge/Hulk-IT"
+        }
       ]
     }
     ,
     {
-      image: require("./assets/images/template.png"),
-      projectName: "Ethereal Portfolio",
-      projectDesc: "A portfolio website for a UI/UX designer",
+      image: require("./assets/images/Sample2.png"),
+      projectName: "BloomsOfAllure",
+      projectDesc: "The frontend of a creative community project involving content voting",
       footerLink: [
-        // {
-        //   name: "Visit Website",
-        //   url: "http://nextu.se/"
-        // }
+        {
+          name: "Visit Website",
+          url: "https://bloomsofallure.com/"
+        }
       ]
     }
   ],
