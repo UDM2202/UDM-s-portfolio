@@ -89,7 +89,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       // skillName: "swift",
-      // fontAwesomeClassname: "fab fa-swift"
+      // fontAwesomeClassname: "fab fa-tailwindcss"
     },
     {
       skillName: "npm",
@@ -153,10 +153,14 @@ const techStack = {
   experience: [
     {
       Stack: "HTML", //Insert stack or technology you have experience in
-      progressPercentage: "90%" //Insert relative proficiency in percentage
+      progressPercentage: "95%" //Insert relative proficiency in percentage
     },
     {
       Stack: "CSS",
+      progressPercentage: "95%"
+    },
+    {
+      Stack: "Tailwind CSS",
       progressPercentage: "90%"
     },
     {
@@ -265,6 +269,17 @@ const bigProjects = {
         {
           name: "Visit Website",
           url: "https://bloomsofallure.com/"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/Taxi-desktop.png"),
+      projectName: "MY TAXI",
+      projectDesc: "A sleek, modern admin panel built for taxi businesses",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://my-taxi-app-ten.vercel.app/"
         }
       ]
     }
