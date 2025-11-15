@@ -281,6 +281,16 @@ const bigProjects = {
           name: "Visit Website",
           url: "https://my-taxi-app-ten.vercel.app/"
         }
+    },
+    {
+      image: require("./assets/images/Weather app.png"),
+      projectName: "WEATHER APP",
+      projectDesc: "A real-time weather forecasting app with responsive UI and location-based search.",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://weather-app1-drab.vercel.app/"
+        }
       ]
     }
   ],
