@@ -281,6 +281,7 @@ const bigProjects = {
           name: "Visit Website",
           url: "https://my-taxi-app-ten.vercel.app/"
         }
+      ]
     },
     {
       image: require("./assets/images/Weather-app.png"),
