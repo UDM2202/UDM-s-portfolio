@@ -283,7 +283,7 @@ const bigProjects = {
         }
     },
     {
-      image: require("./assets/images/Weather app.png"),
+      image: require("./assets/images/Weather-app.png"),
       projectName: "WEATHER APP",
       projectDesc: "A real-time weather forecasting app with responsive UI and location-based search.",
       footerLink: [
