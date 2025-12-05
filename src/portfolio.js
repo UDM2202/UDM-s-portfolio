@@ -250,13 +250,13 @@ const bigProjects = {
     }
     ,
     {
-      image: require("./assets/images/Sample1.png"),
-      projectName: "HULK-IT",
-      projectDesc: "The frontend of a web3 NFT project",
+      image: require("./assets/images/movie-site.png"),
+      projectName: "Movie Explorer",
+      projectDesc: "React Movie App with TMDB API",
       footerLink: [
         {
           name: "Visit Website",
-          url: "https://github.com/HulkOfKnowledge/Hulk-IT"
+          url: "https://movie-app-flax-eta.vercel.app/"
         }
       ]
     }
