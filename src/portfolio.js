@@ -293,6 +293,17 @@ const bigProjects = {
           url: "https://weather-app1-drab.vercel.app/"
         }
       ]
+    },
+    {
+      image: require("./assets/images/struct-ai.png"),
+      projectName: "STRUCT AI",
+      projectDesc: "An AI-powered platform for structural engineering analysis and design.",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://struct-ai-ashen.vercel.app/#signup"
+        }
+      ]
     }
   ],
   display: true // Set false to hide this section, defaults to true
